@@ -1,0 +1,6 @@
+E:\GitHub - Repositorios\NetFramework_ArticulosABM\NetFramework_ArticulosABM\NetFramework_ArticulosABM_Api\bin\Debug\NetFramework_ArticulosABM_Api.dll
+E:\GitHub - Repositorios\NetFramework_ArticulosABM\NetFramework_ArticulosABM\NetFramework_ArticulosABM_Api\bin\Debug\NetFramework_ArticulosABM_Api.pdb
+E:\GitHub - Repositorios\NetFramework_ArticulosABM\NetFramework_ArticulosABM\NetFramework_ArticulosABM_Api\obj\Debug\NetFramework_ArticulosABM_Api.csproj.CoreCompileInputs.cache
+E:\GitHub - Repositorios\NetFramework_ArticulosABM\NetFramework_ArticulosABM\NetFramework_ArticulosABM_Api\obj\Debug\NetFramework_ArticulosABM_Api.dll
+E:\GitHub - Repositorios\NetFramework_ArticulosABM\NetFramework_ArticulosABM\NetFramework_ArticulosABM_Api\obj\Debug\NetFramework_ArticulosABM_Api.pdb
+E:\GitHub - Repositorios\NetFramework_ArticulosABM\NetFramework_ArticulosABM\NetFramework_ArticulosABM_Api\obj\Debug\NetFramework_ArticulosABM_Api.csproj.AssemblyReference.cache

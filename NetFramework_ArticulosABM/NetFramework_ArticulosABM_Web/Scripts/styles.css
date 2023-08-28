@@ -1,0 +1,19 @@
+﻿.m-t-1 {
+    margin-top: 1%;
+}
+
+.m-t-5 {
+    margin-top: 5%;
+}
+
+.m-b-1 {
+    margin-bottom: 1%;
+}
+
+.m-b-5 {
+    margin-bottom: 5%;
+}
+
+.hiden {
+    visibility: hidden !important;
+}

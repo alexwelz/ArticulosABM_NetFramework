@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework_ArticulosABM_Web", "NetFramework_ArticulosABM_Web\NetFramework_ArticulosABM_Web.csproj", "{4C688D86-6679-41F8-97F0-8E44E0182ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework_ArticulosABM_Api", "NetFramework_ArticulosABM_Api\NetFramework_ArticulosABM_Api.csproj", "{AB9D2E21-6860-499C-82FF-6F9386683C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C688D86-6679-41F8-97F0-8E44E0182ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C688D86-6679-41F8-97F0-8E44E0182ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C688D86-6679-41F8-97F0-8E44E0182ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C688D86-6679-41F8-97F0-8E44E0182ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9D2E21-6860-499C-82FF-6F9386683C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9D2E21-6860-499C-82FF-6F9386683C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9D2E21-6860-499C-82FF-6F9386683C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9D2E21-6860-499C-82FF-6F9386683C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9442D78E-EBED-417D-A328-2D6DDAEFB94F}
+	EndGlobalSection
+EndGlobal
